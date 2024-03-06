@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Alireza Ziabari. I am a third year CS Ph.D. student at University of Southern California, advised by [Morteza Dehghani](https://www.mola-lab.org/people). Currently, I am interested in enhancing NLP systems to have learning capabilities comparable to those of humans. This involves delving into innovative methods of adaptation through continual learning and learning from feedback via reinforcement learning.
+My name is Alireza Ziabari. I am a third year CS Ph.D. student at University of Southern California, advised by [Morteza Dehghani](https://www.mola-lab.org/people). Previously, I got my B.S. in Computer Engineering from Sharif University of Technology, where I worked with [Mohammad Hossein Rohban](https://sharif.edu/~rohban/index.html).
 
-Previously, I got my B.S. in Computer Engineering from Sharif University of Technology, where I worked with [Mohammad Hossein Rohban](https://sharif.edu/~rohban/index.html).
+Currently, I am interested in enhancing NLP systems to have learning capabilities comparable to those of humans. This involves delving into innovative methods of adaptation through continual learning and learning from feedback via reinforcement learning.
 
 Publications 
 ======
 1. [Social-group-agnostic bias mitigation via the stereotype content model](https://aclanthology.org/2023.acl-long.227/) Ali Omrani, **Alireza S. Ziabari**, Charles Yu, Preni Golazizian, Brendan Kennedy, Mohammad Atari, Heng Ji, Morteza Dehghani. ACL2023.
-1. [The Moral Foundations Reddit Corpus](https://arxiv.org/pdf/2208.05545.pdf) Jackson Trager*, **Alireza S. Ziabari\***, Aida Mostafazadeh Davani, Preni Golazizian, Farzan Karimi-Malekabadi, Ali Omrani, Zhihe Li, Brendan Kennedy, Nils Karl Reimer, Melissa Reyes, Kelsey Cheng, Mellow Wei, Christina Merrifield, Arta Khosravi, Evans Alvarez, and Morteza Dehghani. Preprint
+1. [Towards a Unified Framework for Adaptable Problematic Content Detection via Continual Learning](https://arxiv.org/pdf/2309.16905.pdf) Ali Omrani*, **Alireza S. Ziabari\***, Preni Golazizian, Jeffery Sorensen, Morteza Dehghani. Preprint.
+1. [The Moral Foundations Reddit Corpus](https://arxiv.org/pdf/2208.05545.pdf) Jackson Trager*, **Alireza S. Ziabari\***, Aida Mostafazadeh Davani, Preni Golazizian, Farzan Karimi-Malekabadi, Ali Omrani, Zhihe Li, Brendan Kennedy, Nils Karl Reimer, Melissa Reyes, Kelsey Cheng, Mellow Wei, Christina Merrifield, Arta Khosravi, Evans Alvarez, and Morteza Dehghani. Preprint.
 
 <!-- Education
 ------
